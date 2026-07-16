@@ -1,7 +1,7 @@
 # Rodent Fertility Control — Home
 
 A knowledge base on using contraception and sterilization to manage rodent
-populations. Start here.
+populations.
 
 ## Overview
 - [Introduction: what fertility control is](overview/introduction.md) ★
