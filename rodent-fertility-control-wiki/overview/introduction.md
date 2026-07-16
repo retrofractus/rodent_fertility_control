@@ -13,12 +13,11 @@ tags: [overview, definitions, IPM]
 > species-specific than rodenticides. Only a handful of agents have reached
 > registration, and **effective control at landscape scale has not yet been
 > convincingly demonstrated** as of the early-2020s literature [JacobLinnert2022;
-> Massei2024]. (High confidence on the "not yet demonstrated at scale" claim.)
+> Massei2024].
 
 ## What "fertility control" means here
 
-Fertility control (also *reproductive control*, *contraception*, or
-*chemosterilization*) covers any intervention that reduces the number of viable
+Fertility control (also *reproductive control*) covers any intervention that reduces the number of viable
 offspring a rodent produces, whether by:
 
 - **Contraception** — temporarily preventing conception or implantation (reversible).
